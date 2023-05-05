@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/art-museum/static/css/main.367e99c7.css",
+    "main.js": "/art-museum/static/js/main.6c5a649c.js",
+    "static/media/andrew-neel-acowe0pCVBg-unsplash.jpg": "/art-museum/static/media/andrew-neel-acowe0pCVBg-unsplash.758fd451f4fc6625e6ea.jpg",
+    "static/media/falco-negenman-uFm8TgTX42A-unsplash.jpg": "/art-museum/static/media/falco-negenman-uFm8TgTX42A-unsplash.d6748d9529d5400c5efe.jpg",
+    "static/media/liza-rusalskaya-D0ad5ow9isg-unsplash (1).jpg": "/art-museum/static/media/liza-rusalskaya-D0ad5ow9isg-unsplash (1).dfbb46c636880cfc862a.jpg",
+    "static/media/adrianna-geo-1rBg5YSi00c-unsplash.jpg": "/art-museum/static/media/adrianna-geo-1rBg5YSi00c-unsplash.a5928ac7dfcb41f7d35e.jpg",
+    "static/media/karim-ben-van-HEGkZoijEG8-unsplash.jpg": "/art-museum/static/media/karim-ben-van-HEGkZoijEG8-unsplash.4e1716e01b1822dad9e1.jpg",
+    "static/media/museum-background.jpg": "/art-museum/static/media/museum-background.415e02436db38f4677b4.jpg",
+    "index.html": "/art-museum/index.html",
+    "main.367e99c7.css.map": "/art-museum/static/css/main.367e99c7.css.map",
+    "main.6c5a649c.js.map": "/art-museum/static/js/main.6c5a649c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.367e99c7.css",
+    "static/js/main.6c5a649c.js"
+  ]
+}
