@@ -1,0 +1,69 @@
+.artwork-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+    cursor: pointer;
+    max-width: 350px;
+    margin: 20px;
+}
+
+.artwork-thumbnail {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.artwork-title {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.artwork-artist {
+    font-size: 1rem;
+    font-weight: normal;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.artwork-date {
+    font-size: 0.9rem;
+    font-weight: normal;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.artwork-fav-button {
+    background-color: #ff9800;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.artwork-fav-button:hover {
+    background-color: #e65100;
+}
+
+.artwork-remove-fav-button {
+    background-color: #fff;
+    color: #000;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #ff9800;
+    cursor: pointer;
+}
+
+.artwork-remove-fav-button:hover {
+    background-color: #ff9800;
+    color: #fff;
+}

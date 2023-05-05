@@ -1,0 +1,42 @@
+.artworks-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.artworks-heading {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.artworks-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.artwork-card {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease-in-out;
+}
+
+.artwork-card:hover {
+    transform: translateY(-5px);
+}
+
+.artwork-thumbnail {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.artwork-title {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
